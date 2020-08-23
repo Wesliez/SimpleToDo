@@ -20,7 +20,7 @@ The following optional features are implemented:
 
 The following additional features are implemented:
 
-* [ ] None
+* [x] None
 
 ## Video Walkthrough
 
