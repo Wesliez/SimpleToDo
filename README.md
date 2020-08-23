@@ -32,4 +32,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Some functions does not work the same way as described in the tutorial, but it is easy to look it up the most recent updates through internet.
+Some functions do not work the same way as described in the tutorial, but it is easy to look it up the most recent updates through internet.
